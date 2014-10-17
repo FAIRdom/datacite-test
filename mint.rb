@@ -1,7 +1,6 @@
 #!/bin/ruby
 
 require 'rest-client'
-require 'pp'
 
 ENDPOINT = 'https://test.datacite.org/mds'
 
